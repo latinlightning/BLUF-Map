@@ -41,18 +41,23 @@ const usPropertyBenefits = [
     },
     {
         state: 'Hawaii',
+        propertyBenefits: " Veterans that have a total service-connected disability rating from the VA are eligible for a property tax exemption on their primary residence and the land it is situated on. Depending on the county of residence other assessments may apply."
     },
     {
         state: 'Idaho',
+        propertyBenefits: "The Idaho Property Tax Reduction Program (also known as the Circuit Breaker program) reduces property taxes on the home and up to one acre of land for qualified applicants. Reductions are based on income from the previous calendar year and offer up to a $1,500 reduction on property taxes"
     },
     {
         state: 'Illinois',
+        propertyBenefits: "Illinois provides a reduction in a property's equalized assessed value of a property owned by a Veteran that has a service-connected disability. The reduction is based on the percentage of the Veteran’s disability."
     },
     {
         state: 'Indiana',
+        propertyBenefits: "Indiana offers three property tax disabled resident veterans. A Deduction for Totall Disabled Veteran or Veteran age 62 and Partiall disabled, a Deduction for Veteran with Partial Disability, or a Deduction for Property Received from a Tax Exempt Organization."
     },
     {
         state: 'Iowa',
+        propertyBenefits: "Iowa offers a 100% property tax credit for homesteads owned by eligible Veterans and the Surviving Spouse of eligible Veterans. The Veteran must own and occupy the property as a homestead on July 1 of each year, declare residency in Iowa for income tax purposes and occupy the property for at least six months each year. Persons in the military or nursing homes who do not occupy the home are also eligible."
     },
     {
         state: 'Kansas',
